@@ -21,3 +21,11 @@ example7_search_for_an_element_with_value
 example8_search_for_an_element_with_duplicates
 example9_update_value_of_element
 ```
+
+Module: `chapter4_lists.operations`
+
+```
+example1_accessing_values
+example2_updating_value
+example3_delete_element
+```
